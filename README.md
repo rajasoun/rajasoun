@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajasoun
 - 👀 I’m interested in Cyber Security, Platform Architecture, Cloud Infrastructure, Site Reliability Engineering, DevSecOps, Data Privacy and Protection
-- 🌱 I’m currently learning Applying AWS Well Architected Framework for Team Organization
+- 🌱 I’m currently learning Applying AWS Well Architected Framework for Team Organization, Startegy Definition and Execution
 - 💞️ I’m looking to collaborate on Platform Architecture, Cloud Infrastructure as Code
 - 📫 How to reach me eMail
 
